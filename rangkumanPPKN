@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rangkuman PPKN BAB 1 Kelas 10</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: rgb(244, 255, 181);
+        }
+        .kotak {
+            background-color: rgb(223, 217, 134);
+            padding: 10px;
+            box-sizing: border-box;
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div class="kotak">
+        <p>Nama: Putra Setyonugroho</p>
+        <p>Kelas: X RPL 1</p>
+        <p>Ekskul: IT Club divisi WEB DEVELOPMENT</p>
+    </div>
+                <h1 id="up">BAB 1: Nilai-nilai Pancasila</h1>
+                <h2>A. Bangsa dan Negara</h2>
+                <h3>1. perbedaan bangsa dan negara</h3>
+                    <ul>
+                        <li>
+                            <strong>Bangsa</strong>
+                            <p>Bangsa artinya kelompok masyarakat yang bersamaan asal keturunannya, adat, bahasa, dan sejarahnya, serta bermerintahan sendiri</p>
+                        </li>
+                        <li>
+                            <strong>Negara</strong>
+                            <p>Negara artinya organisasi dalam suatu wilayah yang mempunyai kekuasaan tertinggi yang sah dan ditaati oleh rakyat.</p>
+                        </li>
+                    </ul>
+                <h3>2. Faktor Pendorong Terbentuknya Bangsa</h3>
+                <ul>
+                    <li>Keinginan untuk mencapai kesatuan nasional</li>
+                    <li>Keinginan untuk mencapai kemerdekaan dan kebebasan normal sepenuhnya</li>
+                    <li>Keinginan akan kemandirian, keunggulan, Individualitas, keaslian, dan kekhasan</li>
+                    <li>Keinginan untuk unggul di antara bangsa-bangsa dalam mengejar kehormatan, pengaruh, dan prestise</li>
+                </ul>
+
+                <h3>3. Unsur-unsur Terbentuknya Negara</h3>
+                <ul>
+                    <li>Penduduk yang tetap</li>
+                    <li>Wilayah terentu</li>
+                    <li>Pemerintahan</li>
+                    <li>Kemampuan mengadakan hubungan dengan negara lain</li>
+                </ul>
+
+                <h3>4. Sifat Hakikat Negara</h3>
+                <ul>
+                    <li>Memaksa</li>
+                    <li>Memonopoli</li>
+                    <li>Mencakup semua</li>
+                </ul>
+                
+                <h2>B. Negara Kesatuan Republik Indonesia</h2>
+                <strong>Pengertian NKRI</strong>
+                <p>Negara Indonesia adalah negara kesatuan yang bebentuk republik atau lebih di kenal dengan Negara Kesatuan Republik Indonesia (NKRI). Pernyataan ini secara tegas tertuang dalam pasal 1 ayat (1) UUD 1945. Keberadaan NKRI tidak dapat dipisahkan dari peristiwa Proklamasi Kemerdekaan 17 Agustus 1945. Melalui peristiwa Proklamasi Kemerdekaan tersebut bangsa Indonesia berhasil mendirikan negara sekaligus menyatakan kepada dunia luar bahwa saat itu telah ada negara baru yaitu NKRI.</p>
+
+                <strong>Fungsi dan Tujuan NKRI</strong>
+                <p>Fungsinya adalah melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, serta ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial.</p><br>
+
+                <h2>C. Pancasila</h2>
+                <h3>1. Fungsi dan kedudukan pancasila</h3>
+                <ol type="a">
+                    <li>Pancasila sebagai ideologi Bangsa dan Negara Indonesia</li>
+                    <li>Pancasila sebagai Kepribadian Bangsa Indonesia</li>
+                    <li>Pancasila sebagai Jiwa Bangsa Indonesia</li>
+                    <li>Pancasila sebagai Sumber dari segaka Sumber Hukum</li>
+                    <li>Pancasila sebagai Perjanjian Luhur Bangsa Indonesia</li>
+                    <li>Pancasila sebagai Alat Pemersatu Bangsa</li>
+                </ol>
+
+                <h3>2. Nilai-nilai yang terkandung dalam Pancasila</h3>
+                <ul>
+                    <li>Nilai Ketuhanan</li>
+                    <li>Nilai Kemanusiaan</li>
+                    <li>Nilai Persatuan</li>
+                    <li>Nilai Kerakyatan</li>
+                    <li>Nilai Keadilan</li>
+                </ul>
+</body>
+</html>
